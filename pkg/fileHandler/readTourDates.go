@@ -18,6 +18,7 @@ func readFile(filepath string) []byte {
 
 func parseFileContent(file []byte) []types.InputEvent {
   var events []types.InputEvent
+
   err := json.Unmarshal(file, &events)
   if err != nil {
     log.Fatalf("Error while parsing file content: %v", err)
