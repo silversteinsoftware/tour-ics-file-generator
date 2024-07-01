@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: npm
+  - package-ecosystem: gomod
     directory: /
     schedule:
       interval: daily
@@ -11,7 +11,7 @@ updates:
     assignees:
       - baysideengineer
     reviewers:
-      - @security
+      - @Security
     labels:
       - "Priority: High"
       - "Status: Review needed"
@@ -27,7 +27,7 @@ updates:
     assignees:
       - baysideengineer
     reviewers:
-      - @security
+      - @Security
     labels:
       - "Priority: High"
       - "Status: Review needed"
