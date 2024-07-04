@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "tz_abbreviation": "IDLW",
+    "tz_name": "International Date Line West",
+    "tz_identifier": "",
+    "utc_offset": "-12:00"
+  },
+  {
+    "id": 2,
+    "tz_abbreviation": "NUT",
+    "tz_name": "Niue Time",
+    "tz_identifier": "",
+    "utc_offset": "-11:00"
+  },
+  {
+    "id": 3,
+    "tz_abbreviation": "HAST",
+    "tz_name": "Hawaii-Aleutian Standard Time",
+    "tz_identifier": "",
+    "utc_offset": "-10:00"
+  },
+  {
+    "id": 4,
+    "tz_abbreviation": "HDT",
+    "tz_name": "Hawaii Daylight Time",
+    "tz_identifier": "America/Adak",
+    "utc_offset": "-09:00"
+  },
+  {
+    "id": 5,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "-09:30"
+  },
+  {
+    "id": 6,
+    "tz_abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "tz_identifier": "America/Anchorage",
+    "utc_offset": "-09:00"
+  },
+  {
+    "id": 7,
+    "tz_abbreviation": "YST",
+    "tz_name": "Yukon Standard Time",
+    "tz_identifier": "",
+    "utc_offset": "-09:00"
+  },
+  {
+    "id": 8,
+    "tz_abbreviation": "AKDT",
+    "tz_name": "Alaska Daylight Time",
+    "tz_identifier": "America/Anchorage",
+    "utc_offset": "-08:00"
+  },
+  {
+    "id": 9,
+    "tz_abbreviation": "YDT",
+    "tz_name": "Yukon Daylight Time",
+    "tz_identifier": "",
+    "utc_offset": "-08:00"
+  },
+  {
+    "id": 10,
+    "tz_abbreviation": "PST",
+    "tz_name": "Pacific Standard Time",
+    "tz_identifier": "America/Los_Angeles",
+    "utc_offset": "-08:00"
+  },
+  {
+    "id": 11,
+    "tz_abbreviation": "PT",
+    "tz_name": "Pacific Time",
+    "tz_identifier": "",
+    "utc_offset": "-09:00"
+  },
+  {
+    "id": 12,
+    "tz_abbreviation": "PDT",
+    "tz_name": "Pacific Daylight Time",
+    "tz_identifier": "America/Los_Angeles",
+    "utc_offset": "-07:00"
+  },
+  {
+    "id": 13,
+    "tz_abbreviation": "MST",
+    "tz_name": "Mountain Standard Time",
+    "tz_identifier": "America/Denver",
+    "utc_offset": "-07:00"
+  },
+  {
+    "id": 14,
+    "tz_abbreviation": "MDT",
+    "tz_name": "Mountain Daylight Time",
+    "tz_identifier": "America/Denver",
+    "utc_offset": "-06:00"
+  },
+  {
+    "id": 15,
+    "tz_abbreviation": "CST",
+    "tz_name": "Central Standard Time",
+    "tz_identifier": "America/Chicago",
+    "utc_offset": "-06:00"
+  },
+  {
+    "id": 16,
+    "tz_abbreviation": "CDT",
+    "tz_name": "Central Daylight Time",
+    "tz_identifier": "America/Chicago",
+    "utc_offset": "-05:00"
+  },
+  {
+    "id": 17,
+    "tz_abbreviation": "EST",
+    "tz_name": "Eastern Standard Time",
+    "tz_identifier": "America/New_York",
+    "utc_offset": "-05:00"
+  },
+  {
+    "id": 18,
+    "tz_abbreviation": "EDT",
+    "tz_name": "Eastern Daylight Time",
+    "tz_identifier": "America/New_York",
+    "utc_offset": "-04:00"
+  },
+  {
+    "id": 19,
+    "tz_abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "tz_identifier": "America/Halifax",
+    "utc_offset": "-04:00"
+  },
+  {
+    "id": 20,
+    "tz_abbreviation": "ADT",
+    "tz_name": "Atlantic Daylight Time",
+    "tz_identifier": "America/Halifax",
+    "utc_offset": "-03:00"
+  },
+  {
+    "id": 21,
+    "tz_abbreviation": "NST",
+    "tz_name": "Newfoundland Standard Time",
+    "tz_identifier": "America/St_Johns",
+    "utc_offset": "-03:30"
+  },
+  {
+    "id": 22,
+    "tz_abbreviation": "NDT",
+    "tz_name": "Newfoundland Daylight Time",
+    "tz_identifier": "America/St_Johns",
+    "utc_offset": "-02:30"
+  },
+  {
+    "id": 23,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 24,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 25,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 26,
+    "tz_abbreviation": "WET",
+    "tz_name": "West European Time",
+    "tz_identifier": "",
+    "utc_offset": "00:00"
+  },
+  {
+    "id": 27,
+    "tz_abbreviation": "WEST",
+    "tz_name": "West European Summer Time",
+    "tz_identifier": "",
+    "utc_offset": "+01:00"
+  },
+  {
+    "id": 28,
+    "tz_abbreviation": "WEDT",
+    "tz_name": "West European Daylight Time",
+    "tz_identifier": "",
+    "utc_offset": "+01:00"
+  },
+  {
+    "id": 29,
+    "tz_abbreviation": "BST",
+    "tz_name": "British Summer Time",
+    "tz_identifier": "Europe/London",
+    "utc_offset": "+01:00"
+  },
+  {
+    "id": 30,
+    "tz_abbreviation": "IST",
+    "tz_name": "Irish Standard Time",
+    "tz_identifier": "",
+    "utc_offset": "+01:00"
+  },
+  {
+    "id": 31,
+    "tz_abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "tz_identifier": "Europe/Berlin",
+    "utc_offset": "+01:00"
+  },
+  {
+    "id": 32,
+    "tz_abbreviation": "CEST",
+    "tz_name": "Central European Summer Time",
+    "tz_identifier": "Europe/Berlin",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 33,
+    "tz_abbreviation": "CEDT",
+    "tz_name": "Central European Daylight Time",
+    "tz_identifier": "",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 34,
+    "tz_abbreviation": "WAST",
+    "tz_name": "West Africa Summer Time",
+    "tz_identifier": "",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 35,
+    "tz_abbreviation": "EET",
+    "tz_name": "East European Time",
+    "tz_identifier": "Europe/Chisinau",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 36,
+    "tz_abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "tz_identifier": "Africa/Windhoek",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 37,
+    "tz_abbreviation": "SAST",
+    "tz_name": "South Africa Standard Time",
+    "tz_identifier": "Africa/Johannesburg",
+    "utc_offset": "+02:00"
+  },
+  {
+    "id": 38,
+    "tz_abbreviation": "EEST",
+    "tz_name": "East European Summer Time",
+    "tz_identifier": "Europe/Chisinau",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 39,
+    "tz_abbreviation": "EEDT",
+    "tz_name": "East European Daylight Time",
+    "tz_identifier": "Europe/Chisinau",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 40,
+    "tz_abbreviation": "BT",
+    "tz_name": "Baghdad Time",
+    "tz_identifier": "",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 41,
+    "tz_abbreviation": "MSK",
+    "tz_name": "Moscow Time",
+    "tz_identifier": "Europe/Moscow",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 42,
+    "tz_abbreviation": "EAT",
+    "tz_name": "East African Time",
+    "tz_identifier": "Africa/Nairobi",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 43,
+    "tz_abbreviation": "AST",
+    "tz_name": "Arabian Standard Time",
+    "tz_identifier": "",
+    "utc_offset": "+03:00"
+  },
+  {
+    "id": 44,
+    "tz_abbreviation": "IRT",
+    "tz_name": "Iran Time",
+    "tz_identifier": "",
+    "utc_offset": "+03:30"
+  },
+  {
+    "id": 45,
+    "tz_abbreviation": "IRST",
+    "tz_name": "Iran Summer Time",
+    "tz_identifier": "",
+    "utc_offset": "+04:30"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 49,
+    "tz_abbreviation": "IST",
+    "tz_name": "Indian Standard Time",
+    "tz_identifier": "Asia/Calcutta",
+    "utc_offset": "+05:30"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 0,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 53,
+    "tz_abbreviation": "ICT",
+    "tz_name": "Indochina Time",
+    "tz_identifier": "",
+    "utc_offset": "+07:00"
+  },
+  {
+    "id": 54,
+    "tz_abbreviation": "CNST",
+    "tz_name": "China Standard Time",
+    "tz_identifier": "",
+    "utc_offset": "+08:00"
+  },
+  {
+    "id": 55,
+    "tz_abbreviation": "JST",
+    "tz_name": "Japan/Korea Standard Time",
+    "tz_identifier": "Asia/Tokyo",
+    "utc_offset": "+09:00"
+  },
+  {
+    "id": 56,
+    "tz_abbreviation": "ACST",
+    "tz_name": "Australian Central Standard Time",
+    "tz_identifier": "Australia/Adelaide",
+    "utc_offset": "+09:30"
+  },
+  {
+    "id": 57,
+    "tz_abbreviation": "ACDT",
+    "tz_name": "Australian Central Daylight Time",
+    "tz_identifier": "Australia/Adelaide",
+    "utc_offset": "+10:30"
+  },
+  {
+    "id": 58,
+    "tz_abbreviation": "AEST",
+    "tz_name": "Australian Eastern Standard Time",
+    "tz_identifier": "Australia/Sydney",
+    "utc_offset": "+10:00"
+  },
+  {
+    "id": 59,
+    "tz_abbreviation": "AEDT",
+    "tz_name": "Australian Eastern Daylight Time",
+    "tz_identifier": "Australia/Sydney",
+    "utc_offset": "+11:00"
+  },
+  {
+    "id": 60,
+    "tz_abbreviation": "",
+    "tz_name": "",
+    "tz_identifier": "",
+    "utc_offset": "+00:00"
+  },
+  {
+    "id": 61,
+    "tz_abbreviation": "NFT",
+    "tz_name": "Norfolk Time",
+    "tz_identifier": "",
+    "utc_offset": "+11:00"
+  },
+  {
+    "id": 62,
+    "tz_abbreviation": "IDLE",
+    "tz_name": "International Date Line East",
+    "tz_identifier": "",
+    "utc_offset": "+12:00"
+  },
+  {
+    "id": 63,
+    "tz_abbreviation": "NZST",
+    "tz_name": "New Zealand Standard Time",
+    "tz_identifier": "Pacific/Auckland",
+    "utc_offset": "+12:00"
+  },
+  {
+    "id": 64,
+    "tz_abbreviation": "NZDT",
+    "tz_name": "New Zealand Daylight Time",
+    "tz_identifier": "Pacific/Auckland",
+    "utc_offset": "+13:00"
+  }
+]
