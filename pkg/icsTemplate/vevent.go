@@ -1,10 +1,13 @@
-package template
+package icsTemplate
 
-const vevent = `BEGIN:VCALENDAR
+const ICSWrapper = `BEGIN:VCALENDAR
 PRODID:-//SILVERSTEIN SOFTWARE//SilversteinTourCalendarFeed//1.0//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-BEGIN:VEVENT
+%sEND:VCALENDAR
+`
+
+const Vevent = `BEGIN:VEVENT
 CLASS:PUBLIC
 URL:https://silverstein.software
 UID:{{.UID}}
@@ -15,4 +18,4 @@ DTSTAMP:{{.DtStamp}}
 DTSTART:{{.DtStart}}
 DTEND:{{.DtEnd}}
 END:VEVENT
-END:VCALENDAR`
+`
