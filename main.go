@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-  tourDates := fileHandler.ReadFile[[]types.TourEntry]("dates.json")
+  tourDates := fileHandler.ReadFile[[]types.TourEntry]("tour-dates.json")
   timezones := fileHandler.ReadFile[[]types.Timezone]("timezones.json")
 
   var icsEvent string
