@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "showNumber": 1,
+    "date": "Jul. 4, 2024",
+    "time": "6:00 PM EDT",
+    "location": "Québec, Québec",
+    "venue": "Festival d'été de Québec 2024"
+  },
+  {
+    "id": 2,
+    "showNumber": 2,
+    "date": "Jul. 5, 2024",
+    "time": "12:00 PM CDT",
+    "location": "Princeton, AL",
+    "venue": "Furnace Fest 2024"
+  },
+  {
+    "id": 3,
+    "showNumber": 3,
+    "date": "Jul. 6, 2024",
+    "time": "12:00 PM PDT",
+    "location": "Las Vegas, NV",
+    "venue": "When We Were Young 2024"
+  }
+]
